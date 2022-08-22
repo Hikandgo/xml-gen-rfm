@@ -1,0 +1,34 @@
+{
+  "name": "xml-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hikandgo",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.0",
+    "lodash": "^4.17.21",
+    "readable-stream": "^4.1.0",
+    "require": "^2.4.20",
+    "through2": "^4.0.2",
+    "tsc": "^2.0.4",
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "8.2.0",
+    "@types/node": "^18.7.9",
+    "@types/readable-stream": "^2.3.14",
+    "@types/typescript": "^2.0.0",
+    "@types/xmlbuilder": "^11.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
